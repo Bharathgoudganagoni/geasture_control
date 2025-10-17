@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gesture Control
 
 Small Python script that uses MediaPipe + OpenCV to control keyboard inputs via hand gestures.
@@ -55,3 +56,7 @@ Security
 
 License
 MIT (see LICENSE file)
+=======
+# geasture_control
+geasture_control
+>>>>>>> 17e7cd2d622021a3dda7ea4faaf80ad975e6dc63
